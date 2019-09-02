@@ -1,0 +1,66 @@
+body{
+    height:auto;
+    width:auto;
+    background-image:url(../images/06denglu.jpg);
+    background-size:100%;
+}
+.center{
+    height:300px ;
+    width:340px;
+    background:white;
+    left:50%;
+    top:50%;
+    position: absolute;
+    margin-left:-150px;
+    margin-top:-130px;
+}
+ .text01{
+    color:#8a8a8a;
+    margin-top:20px;
+    text-align: center;
+}
+
+.number{
+    margin-top:20px;
+    margin-left:62px;
+    border-bottom:1px solid #8a8a8a;
+    width:235px;
+    
+}
+.password{
+    margin-top:18px;
+    margin-left:62px;
+    border-bottom:1px solid #8a8a8a;
+    width:235px;
+    height:24px;
+    
+}
+.button01{
+    margin-top:100px;
+    margin-left:85px;
+    
+}
+.button001{
+    height:35px;
+    width:170px;
+    background:skyblue;
+    border:none;
+    border-radius:6px;
+    color:white;
+}
+
+.text02{
+    color:#8a8a8a;
+    float:left;
+    font-size:12px;
+}
+.text03{
+    float:right;
+    font-size:12px;
+}
+.text003{
+    color:#8a8a8a;
+}
+.text004{
+    color:blue;
+}
