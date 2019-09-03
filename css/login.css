@@ -4,6 +4,25 @@ body{
     background-image:url(../images/06denglu.jpg);
     background-size:100%;
 }
+/* 头部内容 */
+/* .most-head{
+    margin-top:17px; 
+    margin-left:15px;
+} */
+.center-head{
+    margin-top:177px;
+}
+.head-text{
+    color: white;
+    font-size:16px;
+    margin-left:450px;
+}
+
+.head-img{
+    margin-left:420px;
+}
+/* 中间部分内容 */
+
 .center{
     height:300px ;
     width:340px;
@@ -37,12 +56,13 @@ body{
 }
 .button01{
     margin-top:100px;
-    margin-left:85px;
+   
     
 }
 .button001{
+    margin-left:37px;
     height:35px;
-    width:170px;
+    width:276px;
     background:skyblue;
     border:none;
     border-radius:6px;
@@ -63,4 +83,10 @@ body{
 }
 .text004{
     color:blue;
+}
+/* 底部内容 */
+.center-bottom{
+    margin-left:460px;
+    margin-top:460px;
+    color:#fff;
 }
